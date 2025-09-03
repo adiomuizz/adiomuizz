@@ -1,6 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/adiomuizz/adiomuizz/main/wave.gif" width="30px"> I'm Adio Muizz  
+# Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adio Muizz  
 
 💡 **Data Analyst | SQL Enthusiast | Business Intelligence | Storytelling with Data**  
+
+*"Data is the new oil, but insight is the spark that drives change."*  
 
 I specialize in transforming data into actionable insights that drive decision-making. Passionate about exploring datasets, building dashboards, and helping organizations make data-driven choices.  
 
@@ -45,10 +47,5 @@ Business transaction analysis dashboard built in Tableau to track sales and cust
 
 ---
 
-## 👀 Profile Visitors  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=adiomuizz&style=for-the-badge&color=blue)  
-
----
 
 ⭐️ From [adiomuizz](https://github.com/adiomuizz)
