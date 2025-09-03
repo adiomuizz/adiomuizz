@@ -20,7 +20,7 @@ I specialize in transforming data into actionable insights that drive decision-m
 
 ---
 
-## 📊 Featured Projects  
+## 📊 Some of Featured Projects  
 
 🔗 [HR Dashboard](https://github.com/adiomuizz/HR-Dashboard)  
 Interactive Power BI dashboard analyzing HR data to identify workforce trends.  
