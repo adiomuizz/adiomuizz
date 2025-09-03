@@ -15,12 +15,11 @@ I specialize in transforming data into actionable insights that drive decision-m
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
-## 📊 Some of Featured Projects  
+## 📊 Some of Featured Projects 
 
 🔗 [HR Dashboard](https://github.com/adiomuizz/HR-Dashboard)  
 Interactive Power BI dashboard analyzing HR data to identify workforce trends.  
